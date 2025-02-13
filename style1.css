@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+body{
+  border-style: solid;
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 8px;
+}
+h1{
+  font-family: "Playwrite DE Grund", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: purple;
+}
+h2{
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 20px;
+}
+h3{
+  font-size: 18px;
+  font-family: "Poiret One", serif;
+  font-weight: 600;
+  font-style: normal;
+}
